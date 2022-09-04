@@ -1,1 +1,1 @@
-some programs I wrote in the beginning 
+some programs i did using c while I was learning C
