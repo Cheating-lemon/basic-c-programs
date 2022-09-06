@@ -8,11 +8,11 @@ void main()
     int n,sum=0,num,count = 0;
     float mean,sd,sumsd;
     fp = fopen("mean.dat","w");
-    /*if (fp == NULL)
+    if (fp == NULL)
     {
         printf("Can't open the file.");
         exit(0);
-    }*/
+    }
     
     
     //writing to the file
